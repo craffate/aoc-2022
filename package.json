@@ -1,0 +1,18 @@
+{
+  "name": "aoc-2022",
+  "description": "Advent of Code 2022",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craffate/aoc-2022.git"
+  },
+  "author": "Cyril Raffatelli",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/craffate/aoc-2022/issues"
+  },
+  "homepage": "https://github.com/craffate/aoc-2022#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.10",
+    "typescript": "^4.9.3"
+  }
+}
